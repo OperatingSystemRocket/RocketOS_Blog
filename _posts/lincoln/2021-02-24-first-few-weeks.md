@@ -15,10 +15,10 @@ I'm also working on implementing more printf support currently [kprintf](https:/
 
 ![makefile screenshot](/RocketOS_Blog/static/lincoln/makefile-screenshot.png)
 
-![documentation screenshot](/static/lincoln/documentation-screenshot.png)
+![documentation screenshot](/RocketOS_Blog/static/lincoln/documentation-screenshot.png)
 
-![vga driver c file screenshot](/static/lincoln/vga-driver-c-screenshot.png)
+![vga driver c file screenshot](/RocketOS_Blog/static/lincoln/vga-driver-c-screenshot.png)
 
-![vga driver header screenshot](/static/lincoln/vga-driver-header-screenshot.png)
+![vga driver header screenshot](/RocketOS_Blog/static/lincoln/vga-driver-header-screenshot.png)
 
-![assertion error message](/static/lincoln/assertion-error-message.png)
+![assertion error message](/RocketOS_Blog/static/lincoln/assertion-error-message.png)
