@@ -13,7 +13,7 @@ I also worked and finished getting a bootable image setup [Software Setup](https
 I'm also working on implementing more printf support currently [kprintf](https://trello.com/c/qhTSlwSf/17-implementing-standard-output-to-terminal-parts-of-stdioh). Next week I will hopefully start working on paging and dynamic memory management [Paging](https://trello.com/c/UJQYSvAa/21-implement-paging) [Dynamic Memory](https://trello.com/c/3R3BLOaX/22-implement-dynamic-memory-management).
 
 
-![makefile screenshot](/static/lincoln/makefile-screenshot.png)
+![makefile screenshot](/RocketOS_Blog/static/lincoln/makefile-screenshot.png)
 
 ![documentation screenshot](/static/lincoln/documentation-screenshot.png)
 
